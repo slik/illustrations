@@ -1,7 +1,6 @@
 /vendor
 .env
 config/local/
-storage/
 public/
 composer.lock
 node_modules/
